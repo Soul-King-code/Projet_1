@@ -1,0 +1,11 @@
+site_name: "Ma Documentation"
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Accueil: index.md
+  - Analyse immeuble: immeuble.md
